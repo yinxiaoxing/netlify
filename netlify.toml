@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://hqxry.dpdns.org:33668/:splat"
+  to = "http://qcw.yinxing.dynv6.net:8088//:splat"
   status = 200
   force = true
