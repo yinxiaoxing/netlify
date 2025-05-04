@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://qcw.yinxing.dynv6.net:8088//:splat"
+  to = "https://qcw.yinxing.dynv6.net:8088/:splat"
   status = 200
   force = true
